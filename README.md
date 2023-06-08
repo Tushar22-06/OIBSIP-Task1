@@ -1,6 +1,4 @@
-# android-calculator
+# Android-calculator
 A simple android calculator
 
-
-![alt text][logo]
 
